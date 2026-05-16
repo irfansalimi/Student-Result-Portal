@@ -1,2 +1,2 @@
 # Student-Result-Portal
-Student Result Portal By Irfan degital Service
+Student Result Portal By Irfan degital Services
